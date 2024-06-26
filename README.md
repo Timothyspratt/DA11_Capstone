@@ -42,3 +42,13 @@ This analysis not only highlights historical trends but also opens up discussion
 - Excel
 - PowerBi
 - Python
+
+# Acknowledgements
+
+I would like to extend my deepest gratitude to my data analytics teachers who provided invaluable guidance and support throughout this cohort:
+
+- Dibran Rexhepi
+- Olariche Obi
+- Robert Parker
+ 
+Additionally, I would like to thank all of my classmates in Cohort #11 for their help and collaboration along the way. Your support and insights were instrumental in the completion of this project and this class.
